@@ -1,5 +1,5 @@
 body{
-  background: rgb 200, 200, 200;
+  background: black;
 }
 form label{
   display:  block;
@@ -12,6 +12,6 @@ form input{
 }
 h1{
   text-decoration: underline;
-  color: blue;
+  color: white;
 }
   
